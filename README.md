@@ -2,6 +2,10 @@
 
 Your UCII identity, owned by you — portable credentials, encrypted backup, M-of-N social recovery. Lose the phone, keep the identity.
 
+**UCII protects AI decision-making — and there is no AI in UCII.**
+
+Every allow-or-deny decision is a cryptographic check against a grant a human issued: the signature verifies, or it doesn't. No model votes. Nothing can be talked out of a revocation, and no prompt can sweet-talk a signature check.
+
 ## The problem
 
 Actor Corin Nemec got a new phone and got locked out of Instagram and Facebook. The new device couldn't prove it was him without the old device. He called it the "new phone anomaly."
