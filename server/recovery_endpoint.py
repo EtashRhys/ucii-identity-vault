@@ -1,3 +1,9 @@
+# SUPERSEDED (Oct 27, 2026): this Flask reference sketch implements the v1
+# protocol (variable guardians + threshold M, in-memory stores, TODOs). It
+# does not match production behavior. Production recovery is fixed 2-of-3
+# with explicit complete/object endpoints and panel notification — see
+# spec/recovery-protocol.md (v2).
+
 """
 Reference implementation of the UCII Identity Vault recovery endpoints.
 
